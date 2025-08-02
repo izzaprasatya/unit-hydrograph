@@ -1,6 +1,6 @@
 # Building and Analyzing Unit Hydrograph
 
-This notebook explains how to derive a DEM-based unit hydrograph and how we can analyze the generated hydrograph directly with Python, to interpret the rising limb, peak flow and recession limb that are valuable to deepen our understanding of a flow in a channel
+This notebook explains how to derive a DEM-based unit hydrograph and how we can analyze the generated hydrograph directly with Python, to interpret the rising limb, peak flow and recession limb that are valuable to deepen our understanding of a flow in a channel.
 
 ## Tools & Technologies
 
